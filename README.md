@@ -10,3 +10,9 @@ Fuimos contratados como  analistas de datos para buscar e identificar las ubicac
 ## objetivo del proyecto: 
 La meta es optimizar la respuesta a los efectos de la pandemia y post-pandemia con el fin de mejorar el acceso a las vacunas.
 Nos solicitan que el análisis deberá incluir una evaluación sobre la demanda de vacunas, la logística de su distribución y la infraestructura sanitaria ya existente.
+
+## herramientas utilizadas:
+- sheets
+- python
+- vsc
+- power bi
